@@ -5,3 +5,4 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 -Data sourced from https://exoplanets.nasa.gov/discovery/exoplanet-catalog/
 
 -Built using Jupyter Notebooks from Anaconda configuration
+http://localhost:8888/notebooks/Untitled3.ipynb?kernel_name=python3
