@@ -9,7 +9,8 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 
 
-## project 2: type of star versus how many planets it has orbiting it
+## project 2: star type impact on how many super-earth exoplanets are orbiting it
 
 
 ## project 3: number of jovian planets vs total exoplanets in extrasolar star systems
+
