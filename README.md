@@ -1,7 +1,7 @@
 # Natalie_Data_Portfolio
 Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
-## project 1: graphing the mass versus radius of Neptune like exoplanets
+## graph 1: graphing the mass versus radius of Neptune like exoplanets
 -Data sourced from https://exoplanets.nasa.gov/discovery/exoplanet-catalog/
 
 
@@ -9,8 +9,8 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 
 
-## project 2: star type impact on how many super-earth exoplanets are orbiting it
+## graph 2: star type impact on how many super-earth exoplanets are orbiting it
 
 
-## project 3: number of jovian planets vs total exoplanets in extrasolar star systems
+## graph 3: number of jovian planets vs total exoplanets in extrasolar star systems
 
