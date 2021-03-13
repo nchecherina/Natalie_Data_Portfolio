@@ -15,9 +15,11 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 
 
+## graph 3: 
 
-## graph 3: star type impact on how many super-earth exoplanets are orbiting it
+
+## graph 4: star type impact on how many super-earth exoplanets are orbiting it
 
 
-## graph 4: number of jovian planets vs total exoplanets in extrasolar star systems
+## graph 5: number of jovian planets vs total exoplanets in extrasolar star systems
 
