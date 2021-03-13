@@ -1,3 +1,4 @@
+
 # Natalie_Data_Portfolio
 Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
@@ -11,6 +12,7 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 ## graph 2: abundance of different star types in the Milky Way
 
+![image](https://user-images.githubusercontent.com/80276798/111052616-34cb9600-8411-11eb-88e9-c9f29729aab2.png)
 
 
 
