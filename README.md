@@ -9,6 +9,12 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 
 
+## graph 2: abundance of different star types in the Milky Way
+
+
+
+
+
 ## graph 2: star type impact on how many super-earth exoplanets are orbiting it
 
 
