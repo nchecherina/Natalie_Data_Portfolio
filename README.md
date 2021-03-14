@@ -14,7 +14,7 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 ![image](https://user-images.githubusercontent.com/80276798/111052616-34cb9600-8411-11eb-88e9-c9f29729aab2.png)
 
 
-## graph 3: radius in comparison to luminousity of stars closest to the Sun
+## graph 3: luminousity in comparison to mass of stars closest to the Sun
 
 
 ## graph 4: number of jovian planets vs total exoplanets in extrasolar star systems
