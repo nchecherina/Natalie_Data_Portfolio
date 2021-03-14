@@ -15,7 +15,5 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 
 ## graph 3: luminousity in comparison to mass of stars closest to the Sun
+- 20 of the closest stars to the Solar System and if there is any correlation between their luminousity in comparison to total mass, and if it's radius has anything to do with it
 
-
-## graph 4: number of jovian planets vs total exoplanets in extrasolar star systems
-- 20 of the closest star systems to the Solar System and if there is any correlation between the number of jovian planets in comparison to total planets, and if the type of star that the system is hosted by has anything to do with it
