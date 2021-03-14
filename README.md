@@ -15,11 +15,5 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 
 
-## graph 3: 
-
-
-## graph 4: star type impact on how many super-earth exoplanets are orbiting it
-
-
-## graph 5: number of jovian planets vs total exoplanets in extrasolar star systems
-
+## graph 3: number of jovian planets vs total exoplanets in extrasolar star systems
+- 20 of the closest star systems to the Solar System and if there is any correlation between the number of jovian planets in comparison to total planets, and if the type of star that the system is hosted by has anything to do with it
