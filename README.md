@@ -7,6 +7,8 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 ## graph 1: luminousity in comparison to mass of stars closest to the Sun
 - 20 of the closest stars to the Solar System and if there is any correlation between their luminousity in comparison to total mass, and if it's radius has anything to do with it
 
+![image](https://user-images.githubusercontent.com/80276798/111058823-f3091280-8445-11eb-84b0-c0240e1689e7.png)
+
 
 
 ## graph 2: graphing the mass versus radius of Neptune like exoplanets
