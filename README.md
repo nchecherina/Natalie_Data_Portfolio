@@ -29,3 +29,9 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 - pulsar systems meet the criteria of p0 < 3e-2 && MinMass>0 && pb < 2 && (BinComp(MS) || BinComp(UL)); this means that only pulsars with spin periods < 30ms ("millisecond pulsars") with orbital periods less than 2 days (close companions with a measured mass) are taken, disregarding white dwarf companions, so that only eclipsing binaries are left
 
 ![bwp](https://user-images.githubusercontent.com/80276798/117527081-28ca0380-af7e-11eb-97e5-e84d88807c72.png)
+
+
+## graph 5: vector fields
+
+![82DB2B76-6C41-41B8-9A2A-E9C2FECE00B1](https://user-images.githubusercontent.com/80276798/148209438-3434c03a-7bb4-4afc-a35f-d6e5d13aa775.jpeg)
+![748C5312-17F1-4F7E-8366-D3ABC0871E4D_4_5005_c](https://user-images.githubusercontent.com/80276798/148209552-c91a106f-3f23-4d67-b1ea-cf3b41ca70ca.jpeg)
