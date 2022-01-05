@@ -35,3 +35,5 @@ Mini portfolio showcasing my data analytics skills using Jupyter Notebook
 
 ![82DB2B76-6C41-41B8-9A2A-E9C2FECE00B1](https://user-images.githubusercontent.com/80276798/148209438-3434c03a-7bb4-4afc-a35f-d6e5d13aa775.jpeg)
 ![748C5312-17F1-4F7E-8366-D3ABC0871E4D_4_5005_c](https://user-images.githubusercontent.com/80276798/148209552-c91a106f-3f23-4d67-b1ea-cf3b41ca70ca.jpeg)
+![36442E1E-3DFA-40FC-A273-84733A8BA4CB](https://user-images.githubusercontent.com/80276798/148209817-7d7855d1-53e4-4a98-af6c-7147bbec82d4.jpeg)
+![94924ABD-A774-4402-B43F-0B7CE8AAD709](https://user-images.githubusercontent.com/80276798/148209834-2d523574-ea27-4207-8696-7c5888e103dd.jpeg)
